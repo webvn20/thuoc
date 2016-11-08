@@ -33031,26 +33031,10 @@ ul.list-menu-temkpi-right li .badge[aria-expanded="true"] .fa-chevron-right::bef
 a:hover {
     text-decoration: none
 }
-@font-face {
-    font-family: 'OpenSansB';
-    src: url("/3rdparty/Fonts/OpenSans-Bold.eot")
-}
-@font-face {
-    font-family: 'OpenSansB';
-    src: url("/3rdparty/Fonts/OpenSans-Bold.ttf")
-}
-@font-face {
-    font-family: 'Myriad Pro';
-    src: url("/3rdparty/Fonts/MyriadPro-Regular.eot")
-}
-@font-face {
-    font-family: 'Myriad Pro';
-    src: url("/3rdparty/Fonts/MyriadPro-Regular.otf")
-}
 body {
     background-position: center top;
     background-color: #fff;
-    font-family: 'Myriad Pro'
+    font-family: 'tahoma'
 }
 header.header-default .top-header {
     background-color: #222
